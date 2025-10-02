@@ -2,7 +2,7 @@ import 'dart:convert' as convert;
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 import 'package:http/http.dart' as http;
 
-const GOOGLE_API_KEY = 'AIzaSyASSFv1281DmQDiBMXR9zISfZoTinlqPQA';
+const GOOGLE_API_KEY = 'chave api aq';
 
 class LocationUtil {
   static String generateLocationPreviewImage({
